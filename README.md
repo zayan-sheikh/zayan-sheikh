@@ -13,4 +13,4 @@ Hi, I'm Zayan, welcome to my GitHub page!
 - 💬 Ask me about ... -->
 - 📫 How to reach me: email me at dbzayan@gmail.com, or message my instagram @zayan.s\_
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: I love to draw!
