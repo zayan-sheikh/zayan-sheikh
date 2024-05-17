@@ -1,12 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- **zayan-sheikh/zayan-sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 
-Hi, I'm Zayan, welcome to my GitHub page!
+# Hi, I'm Zayan, welcome to my GitHub page!
 
-- 🔭 I’m currently working on a Chrome extension to help manage canvas assignments
+- 🔭 I’m currently working on a computer vision MERN webapp that helps you perfect your form for common exercises
 - 🌱 I’m currently learning C and Assembly
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
