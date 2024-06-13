@@ -4,10 +4,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-# Hi, I'm Zayan, welcome to my GitHub page!
+# Hi, I'm Zayan!
 
+- 📖 I'm a third year Computer Science major at the University of British Columbia
 - 🔭 I’m currently working on a computer vision MERN webapp that helps you perfect your form for common exercises
-- 🌱 I’m currently learning C and Assembly
+- 🌱 I’m currently trying to sharpen my ML, Data Science, and Computer Vision skills
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
