@@ -1,5 +1,5 @@
 # About me:
-📖 I'm a third year Computer Science major at the University of British Columbia.<br>🛠️ I’m currently working at an AWS Cloud Innovation Center!<br>🌱 I’m currently trying to sharpen my ML, Data Science, and Computer Vision skills.<br>⚡ Fun fact: I love to draw, edit photos and videos, and I do a bit of 3d animation sometimes!<br>📨 Want to get in touch? Email me at dbzayan@gmail.com!
+📖 I'm a third year Computer Science major at the University of British Columbia.<br>🛠️ I’m currently working at an AWS Cloud Innovation Center on an AI-centered full-stack app!<br>🌱 I’m currently trying to sharpen my ML, Data Science, and Computer Vision skills.<br>⚡ Fun fact: I love to draw, edit photos and videos, and I do a bit of 3d animation sometimes!<br>📨 Want to get in touch? Email me at dbzayan@gmail.com!
 
 
 ## Socials:
